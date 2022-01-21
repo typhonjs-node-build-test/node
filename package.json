@@ -1,0 +1,39 @@
+{
+  "name": "@typhonjs-build-test/node",
+  "description": "Provides a single package collecting all build / test resources for TyphonJS packages.",
+  "version": "0.0.0",
+  "author": "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)",
+  "contributors": [
+    "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)"
+  ],
+  "dependencies": {
+    "@typhonjs-build-test/esm-d-ts": "^0.0.2",
+    "@typhonjs-build-test/testsuite-runner": "^0.0.5",
+    "@typhonjs-config/eslint-config": "^0.3.0",
+    "c8": "^7",
+    "chai": "^4",
+    "chai-as-promised": "^7",
+    "codecov": "^3",
+    "cross-env": "^7",
+    "cross-spawn": "^7",
+    "dotenv": "^14",
+    "eslint": "^8",
+    "fs-extra": "^10",
+    "mocha": "^9",
+    "strip-json-comments": "^4"
+  },
+  "files": [
+    "/npm-shrinkwrap.json",
+    "/src"
+  ],
+  "homepage": "https://github.com/typhonjs-node-build-test/node",
+  "keywords": [
+    "typhonjs",
+    "utils",
+    "build",
+    "test"
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/typhonjs-node-build-test/node/issues",
+  "repository": "github:typhonjs-node-build-test/node"
+}
