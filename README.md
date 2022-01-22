@@ -13,7 +13,6 @@ Add as a `devDependency` and the following modules are added:
 - [c8@7.11.0](https://www.npmjs.com/package/c8)
 - [chai@4.3.4](https://www.npmjs.com/package/chai)
 - [chai-as-promised@7.1.1](https://www.npmjs.com/package/chai-as-promised)
-- [codecov@3.8.3](https://www.npmjs.com/package/codecov)
 - [cross-env@7.0.3](https://www.npmjs.com/package/cross-env)
 - [cross-spawn@7.0.3](https://www.npmjs.com/package/cross-spawn)  
 - [dotenv@14.2.0](https://www.npmjs.com/package/dotenv) (added temporarily before @typhonjs-utils/env-loader is available)  
