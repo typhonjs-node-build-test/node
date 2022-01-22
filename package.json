@@ -1,7 +1,7 @@
 {
   "name": "@typhonjs-build-test/node",
   "description": "Provides a single package collecting all build / test resources for TyphonJS packages.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)",
   "contributors": [
     "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)"
@@ -13,7 +13,6 @@
     "c8": "^7",
     "chai": "^4",
     "chai-as-promised": "^7",
-    "codecov": "^3",
     "cross-env": "^7",
     "cross-spawn": "^7",
     "dotenv": "^14",
