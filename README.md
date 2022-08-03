@@ -7,7 +7,7 @@ Provides a single package collecting all build / test resources for TyphonJS pac
 
 Add as a `devDependency` and the following modules are added:
 
-- [@typhonjs-build-test/esm-d-ts@0.0.3](https://www.npmjs.com/package/@typhonjs-build-test/esm-d-ts)
+- [@typhonjs-build-test/esm-d-ts@0.0.4](https://www.npmjs.com/package/@typhonjs-build-test/esm-d-ts)
 - [@typhonjs-build-test/testsuite-runner@0.0.5](https://www.npmjs.com/package/@typhonjs-build-test/testsuite-runner)
 - [@typhonjs-config/eslint-config@0.3.5](https://www.npmjs.com/package/@typhonjs-config/eslint-config)
 - [c8@7.12.0](https://www.npmjs.com/package/c8)
