@@ -1,14 +1,14 @@
 {
   "name": "@typhonjs-build-test/node",
   "description": "Provides a single package collecting all build / test resources for TyphonJS packages.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)",
   "contributors": [
     "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)"
   ],
   "dependencies": {
     "@typhonjs-build-test/esm-d-ts": "^0.0.23",
-    "@typhonjs-build-test/testsuite-runner": "^0.0.6",
+    "@typhonjs-build-test/testsuite-runner": "^0.0.7",
     "@typhonjs-config/eslint-config": "^0.6.0",
     "c8": "^7.13.0",
     "chai": "^4.3.7",
