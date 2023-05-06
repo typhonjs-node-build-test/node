@@ -7,7 +7,7 @@ Provides a single package collecting all build / test resources for TyphonJS pac
 
 Add as a `devDependency` and the following modules are added:
 
-- [@typhonjs-build-test/esm-d-ts@0.0.23](https://www.npmjs.com/package/@typhonjs-build-test/esm-d-ts)
+- [@typhonjs-build-test/esm-d-ts@0.0.24](https://www.npmjs.com/package/@typhonjs-build-test/esm-d-ts)
 - [@typhonjs-build-test/testsuite-runner@0.0.7](https://www.npmjs.com/package/@typhonjs-build-test/testsuite-runner)
 - [@typhonjs-config/eslint-config@0.6.1](https://www.npmjs.com/package/@typhonjs-config/eslint-config)
 - [c8@7.13.0](https://www.npmjs.com/package/c8)
@@ -16,7 +16,7 @@ Add as a `devDependency` and the following modules are added:
 - [cross-env@7.0.3](https://www.npmjs.com/package/cross-env)
 - [cross-spawn@7.0.3](https://www.npmjs.com/package/cross-spawn)  
 - [dotenv@16.0.3](https://www.npmjs.com/package/dotenv) (added temporarily before @typhonjs-utils/env-loader is available)  
-- [eslint@8.39.0](https://www.npmjs.com/package/eslint)
+- [eslint@8.40.0](https://www.npmjs.com/package/eslint)
 - [fs-extra@11.1.1](https://www.npmjs.com/package/fs-extra)
 - [mocha@10.2.0](https://www.npmjs.com/package/mocha)
 - [strip-json-comments@5.0.0](https://www.npmjs.com/package/strip-json-comments)
