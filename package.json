@@ -1,7 +1,7 @@
 {
   "name": "@typhonjs-build-test/node",
   "description": "Provides a single package collecting all build / test resources for TyphonJS packages.",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)",
   "contributors": [
     "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)"
@@ -23,7 +23,7 @@
     "strip-json-comments": "^5.0.0"
   },
   "peerDependencies": {
-    "rollup": "3.x.x"
+    "rollup": "^3.0.0"
   },
   "files": [
     "/npm-shrinkwrap.json",
